@@ -1,76 +1,59 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# Portfolio Website
+<a href="https://yashtalwar.vercel.app/" target="_blank">yashtalwar.tech</a>
 
-<br/>
+## 🛠️ Installation Steps
 
-<center>
+1. Clone the repository
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+```bash
+git clone https://github.com/yashh150/Portfolio.git
+```
 
-</center>
+2. Change the working directory
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+```bash
+cd Portfolio
+```
 
-## TL;DR
+3. Install dependencies
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+```bash
+npm install
+```
 
-## Built With
+4. Run the app
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+```bash
+npm start
+```
 
-This project was built using these technologies.
+## 🚀 Features
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+- Fully Responsive
+- Multi-Page Layout
+- Contact Form
+- Blog Section
+- Portfolio Section
+- Resume Section
+- Dynamic Project Section
+- Search Bar
+- Dark Mode
+- Color Customization
+- And More!
 
-## Features
+## 📬 Contact
 
-**📖 Multi-Page Layout**
+If you want to contact me, you can reach me through below handles.
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-talwar-150/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashh150)
 
-**📱 Fully Responsive**
+## 📝 License
 
-## Getting Started
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+## 🙏 Support
 
-## 🛠 Installation and Setup Instructions
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
 
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<a href="https://www.buymeacoffee.com/yashh150" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
